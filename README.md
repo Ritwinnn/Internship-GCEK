@@ -1,4 +1,4 @@
-# CEK Internship
+# GCEK Internship
 
 ## Internship Overview
 This repository contains the work completed during my internship at Government Engineering College Kannur (GCEK).  
